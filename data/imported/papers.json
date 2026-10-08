@@ -1,0 +1,337 @@
+[
+ {
+  "paper_id": "P07",
+  "title": "DOCUMENT 5 — EXTRACTION VALIDATION STANDARD Ground Truth Dataset Specification",
+  "authors": "PREPARED FOR",
+  "publication_year": null,
+  "journal": "Document # — Ground Truth Dataset Page # of #",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "Document 5 — Ground Truth Dataset (1).pdf",
+  "num_pages": 4,
+  "needs_review": [
+   "publication_year",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "Document # — Ground Truth Dataset Page # of #"
+  ],
+  "front_matter": "Document 5 — Ground Truth Dataset Page 1 of 4 Document 5 — Ground Truth Dataset Page 2 of 4 Document 5 — Ground Truth Dataset Page 3 of 4 DOCUMENT 5 — EXTRACTION VALIDATION STANDARD Ground Truth Dataset Specification PROJECT PREPARED FOR Membrane Comparison CS / Dev Team 1. PURPOSE & WORKFLOW"
+ },
+ {
+  "paper_id": "P08",
+  "title": "DOCUMENT 5 — EXTRACTION VALIDATION STANDARD Ground Truth Dataset Specification",
+  "authors": "PREPARED FOR",
+  "publication_year": null,
+  "journal": "Document # — Ground Truth Dataset Page # of #",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "Document 5 — Ground Truth Dataset.pdf",
+  "num_pages": 4,
+  "needs_review": [
+   "publication_year",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "Document # — Ground Truth Dataset Page # of #"
+  ],
+  "front_matter": "Document 5 — Ground Truth Dataset Page 1 of 4 Document 5 — Ground Truth Dataset Page 2 of 4 Document 5 — Ground Truth Dataset Page 3 of 4 DOCUMENT 5 — EXTRACTION VALIDATION STANDARD Ground Truth Dataset Specification PROJECT PREPARED FOR Membrane Comparison CS / Dev Team 1. PURPOSE & WORKFLOW"
+ },
+ {
+  "paper_id": "P09",
+  "title": "Document 6 — Test Questions & Expected Outputs",
+  "authors": null,
+  "publication_year": 2020,
+  "journal": "Membranes",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "Document 6 — Test Questions & Expected Outputs (1).pdf",
+  "num_pages": 5,
+  "needs_review": [
+   "authors",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "DOCUMENT # — TEST QUESTIONS & EXPECTED OUTPUTS PAGE # OF #",
+   "Question: \"Find papers on MOF based membranes for dye removal published after #\"",
+   "Every single number displayed must be click-traceable to its original text snippet/table in the PDF."
+  ],
+  "front_matter": "Question: \"Find papers on MOF based membranes for dye removal published after 2020\" DOCUMENT 6 — TEST QUESTIONS & EXPECTED OUTPUTS PAGE 1 OF 4 DOCUMENT 6 — TEST QUESTIONS & EXPECTED OUTPUTS PAGE 2 OF 4 Document 6 — Test Questions & Expected Outputs Prepared for: CS/Development Team Prepared by: Env. Engineering Domain Lead Version: 1.0 Project: Membrane Literature Comparison Agent 1. PURPOSE & OBJECTIVES This document defines the exact questions the finished application must be able to answer, and what a scientifically correct output should look like for each."
+ },
+ {
+  "paper_id": "P10",
+  "title": "Document 6 — Test Questions & Expected Outputs",
+  "authors": null,
+  "publication_year": 2020,
+  "journal": "Membranes",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "Document 6 — Test Questions & Expected Outputs.pdf",
+  "num_pages": 5,
+  "needs_review": [
+   "authors",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "DOCUMENT # — TEST QUESTIONS & EXPECTED OUTPUTS PAGE # OF #",
+   "Question: \"Find papers on MOF based membranes for dye removal published after #\"",
+   "Every single number displayed must be click-traceable to its original text snippet/table in the PDF."
+  ],
+  "front_matter": "Question: \"Find papers on MOF based membranes for dye removal published after 2020\" DOCUMENT 6 — TEST QUESTIONS & EXPECTED OUTPUTS PAGE 1 OF 4 DOCUMENT 6 — TEST QUESTIONS & EXPECTED OUTPUTS PAGE 2 OF 4 Document 6 — Test Questions & Expected Outputs Prepared for: CS/Development Team Prepared by: Env. Engineering Domain Lead Version: 1.0 Project: Membrane Literature Comparison Agent 1. PURPOSE & OBJECTIVES This document defines the exact questions the finished application must be able to answer, and what a scientifically correct output should look like for each."
+ },
+ {
+  "paper_id": "P11",
+  "title": "Document 7 — Development Roadmap & Workstreams",
+  "authors": "Domain Lead",
+  "publication_year": null,
+  "journal": "Build domain glossary Domain Lead Document # (.xlsx) ☐",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "Document 7 — Development Roadmap & Team Workstreams (1).pdf",
+  "num_pages": 6,
+  "needs_review": [
+   "publication_year",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "Build domain glossary Domain Lead Document # (.xlsx) ☐"
+  ],
+  "front_matter": "Build domain glossary Domain Lead Document 4 (.xlsx) ☐ Document 7 — Development Roadmap & Workstreams Project: Membrane Literature Comparison Agent 1. PURPOSE & OPERATIONAL REALITY Domain Lead Version: 1.0 This document defines who does what, the order things get built, dependencies, parallel execution execution maps, and the explicit definition of \"done\" at each phase."
+ },
+ {
+  "paper_id": "P12",
+  "title": "Document 7 — Development Roadmap & Workstreams",
+  "authors": "Domain Lead",
+  "publication_year": null,
+  "journal": "Build domain glossary Domain Lead Document # (.xlsx) ☐",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "Document 7 — Development Roadmap & Team Workstreams.pdf",
+  "num_pages": 6,
+  "needs_review": [
+   "publication_year",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "Build domain glossary Domain Lead Document # (.xlsx) ☐"
+  ],
+  "front_matter": "Build domain glossary Domain Lead Document 4 (.xlsx) ☐ Document 7 — Development Roadmap & Workstreams Project: Membrane Literature Comparison Agent 1. PURPOSE & OPERATIONAL REALITY Domain Lead Version: 1.0 This document defines who does what, the order things get built, dependencies, parallel execution execution maps, and the explicit definition of \"done\" at each phase."
+ },
+ {
+  "paper_id": "P13",
+  "title": "DOMAIN GLOSSARY",
+  "authors": null,
+  "publication_year": null,
+  "journal": "Membranes",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "Domain Glossary — Membrane Literature Comparison Agent (1).pdf",
+  "num_pages": 3,
+  "needs_review": [
+   "authors",
+   "publication_year",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "Domain Glossary — Membrane Literature Comparison Agent Page # of #"
+  ],
+  "front_matter": "Domain Glossary — Membrane Literature Comparison Agent Page 1 of 3 Domain Glossary — Membrane Literature Comparison Agent Page 3 of 3 DOMAIN GLOSSARY Membrane Literature Comparison Agent — CS & Development Technical Reference DOC-04 CS / Development Team 1. ABBREVIATIONS & ACRONYMS ABBR. FULL FORM NOTES / DEFINITION MF Microfiltration Pore size 0.1–10 µm"
+ },
+ {
+  "paper_id": "P14",
+  "title": "DOMAIN GLOSSARY",
+  "authors": null,
+  "publication_year": null,
+  "journal": "Membranes",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "Domain Glossary — Membrane Literature Comparison Agent.pdf",
+  "num_pages": 3,
+  "needs_review": [
+   "authors",
+   "publication_year",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "Domain Glossary — Membrane Literature Comparison Agent Page # of #"
+  ],
+  "front_matter": "Domain Glossary — Membrane Literature Comparison Agent Page 1 of 3 Domain Glossary — Membrane Literature Comparison Agent Page 3 of 3 DOMAIN GLOSSARY Membrane Literature Comparison Agent — CS & Development Technical Reference DOC-04 CS / Development Team 1. ABBREVIATIONS & ACRONYMS ABBR. FULL FORM NOTES / DEFINITION MF Microfiltration Pore size 0.1–10 µm"
+ },
+ {
+  "paper_id": "P01",
+  "title": "Cu-BDC@CNT/PSf mixed-matrix membranes for removal of Reactive Black 5 from textile wastewater",
+  "authors": "A. Khan, S. Raza, M. Ali",
+  "publication_year": 2023,
+  "journal": "Journal of Membrane Science",
+  "doi": "10.1016/j.memsci.2023.121001",
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "P01 (1).pdf",
+  "num_pages": 1,
+  "needs_review": [
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "Journal of Membrane Science | Vol. # (#) | Research Article",
+   "Page #"
+  ],
+  "front_matter": "Journal of Membrane Science | Vol. 12 (2023) | Research Article Page 1 Cu-BDC@CNT/PSf mixed-matrix membranes for removal of Reactive Black 5 from textile wastewater A. Khan, S. Raza, M. Ali Department of Environmental Engineering, NED University, Karachi, Pakistan. DOI: 10.1016/j.memsci.2023.121001 Abstract Mixed-matrix membranes (MMMs) of polysulfone (PSf) containing Cu-BDC@CNT were prepared by phase inversion. The membrane with 2 wt% filler showed a pure water flux of 89 LMH at 2 bar and a dye rejection of 92% for Reactive Black 5. 1. Introduction"
+ },
+ {
+  "paper_id": "P02",
+  "title": "Polyamide thin-film nanocomposite nanofiltration membranes for cationic and anionic dye separation",
+  "authors": "N. Ahmed, F. Siddiqui",
+  "publication_year": 2022,
+  "journal": "Desalination",
+  "doi": "10.1016/j.desal.2022.115882",
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "P02 (1).pdf",
+  "num_pages": 1,
+  "needs_review": [
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "Desalination | Vol. # (#) | Research Article",
+   "Page #"
+  ],
+  "front_matter": "Desalination | Vol. 12 (2022) | Research Article Page 1 Polyamide thin-film nanocomposite nanofiltration membranes for cationic and anionic dye separation N. Ahmed, F. Siddiqui Institute of Chemical Engineering, University of Karachi. DOI: 10.1016/j.desal.2022.115882 Abstract Thin-film nanocomposite (TFN) nanofiltration (NF) membranes were fabricated by interfacial polymerization on a PES support with ZIF-8 nanoparticles. The optimised membrane displayed a water flux of 89 L m-2 h-1 under 300 kPa with dye removal efficiency above 95% for methylene blue."
+ },
+ {
+  "paper_id": "P03",
+  "title": "Graphene oxide blended polyethersulfone ultrafiltration membranes for treatment of textile effluent",
+  "authors": "T. Hussain",
+  "publication_year": 2023,
+  "journal": "Journal of Membrane Science",
+  "doi": "10.3390/membranes13040321",
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "P03 (1).pdf",
+  "num_pages": 2,
+  "needs_review": [
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "GO/PES-# #.# # #",
+   "Journal of Membrane Science | Vol. # (#) | Research Article",
+   "Page #"
+  ],
+  "front_matter": "Journal of Membrane Science | Vol. 12 (2023) | Research Article Page 1 GO/PES-11 1.1 74 92 Graphene oxide blended polyethersulfone ultrafiltration membranes for treatment of textile effluent T. Hussain Department of Chemical Engineering, UET Lahore. DOI: 10.3390/membranes13040321 Abstract GO/PES ultrafiltration (UF) membranes were produced by phase inversion. Dye removal efficiency improved with GO loading and the flux = 45 for the optimum membrane. 1. Introduction"
+ },
+ {
+  "paper_id": "P04",
+  "title": "Pilot-scale CO2 capture demonstration of heat integration through split flow configuration using 30 wt\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si123.svg\" display=\"inline\" id=\"d1e2344\">\n                      <mml:mtext>%</mml:mtext>\n                    </mml:math>\n                    MEA at a Waste-to-Energy facility",
+  "authors": "Sai Hema Bhavya Vinjarapu, Randi Neerup, Anders Hellerup Larsen, Sebastian Nis Bay Villadsen, Nicolas von Solms, Søren Jensen, Jakob Lindkvist Karlsson, Jannik Kappel, Henrik Lassen, Peter Blinksbjerg, Philip Loldrup Fosbøl",
+  "publication_year": 2024,
+  "journal": "Separation and Purification Technology",
+  "doi": "10.1016/j.seppur.2024.127311",
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "P04 (1).pdf",
+  "num_pages": 1,
+  "needs_review": [],
+  "header_footer": [
+   "Separation and Purification Technology | Vol. # (#) | Research Article",
+   "Page #"
+  ],
+  "front_matter": "Separation and Purification Technology | Vol. 12 (2024) | Research Article Page 1 Reduced graphene oxide/PVDF membranes for removal of anionic dyes: effect of pressure R. Qureshi, H. Baig Department of Materials Science, NUST Islamabad. DOI: 10.1016/j.seppur.2024.127311 Abstract rGO/PVDF ultrafiltration membranes were evaluated for Congo red removal in dead-end mode. Published: 14 March 2024. 1. Introduction",
+  "metadata_source": "crossref"
+ },
+ {
+  "paper_id": "P05",
+  "title": "Silver nanoparticle modified PES nanofiltration membranes for reactive dye removal",
+  "authors": null,
+  "publication_year": null,
+  "journal": "Membranes",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "P05 (1).pdf",
+  "num_pages": 1,
+  "needs_review": [
+   "authors",
+   "publication_year",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [],
+  "front_matter": "Silver nanoparticle modified PES nanofiltration membranes for reactive dye removal Abstract Ag-PES nanofiltration membranes were prepared. Dead-end tests at 5 bar. 2. Experimental PES dope solutions with 0, 1 and 2 wt% Ag were cast and immersed in water. 3. Results"
+ },
+ {
+  "paper_id": "P06",
+  "title": "Poly(2-hydroxyethyl methacrylate)/BN nanohybride: Enhanced adsorption of antibiotic pollutant removal from wastewater",
+  "authors": "K.Yu. Kotyakova, L.Yu. Antipina, E.S. Permуakova, D.V. Shtansky",
+  "publication_year": 2024,
+  "journal": "Journal of Water Process Engineering",
+  "doi": "10.1016/j.jwpe.2024.105210",
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "P06 (1).pdf",
+  "num_pages": 3,
+  "needs_review": [],
+  "header_footer": [
+   "Journal of Water Process Engineering | Vol. # (#) | Research Article",
+   "Page #"
+  ],
+  "front_matter": "Journal of Water Process Engineering | Vol. 12 (2024) | Research Article Page 1 Journal of Water Process Engineering | Vol. 12 (2024) | Research Article ZIF-67 modified polyethersulfone cross-flow membranes for methylene blue and Congo red removal from dyeing effluent M. Farooq, L. Zafar, K. Rehman Department of Environmental Sciences, University of Karachi. DOI: 10.1016/j.jwpe.2024.105210 Abstract Polyethersulfone (PES) membranes containing 0 to 1.5 wt% ZIF-67 were prepared by non-solvent induced phase separation and tested for dye removal in cross-flow mode. The membrane containing 1.0 wt% ZIF-67 reached 187 LMH and rejected 95.6% of methylene blue. Published: 2 June 2024. 1. Introduction Dyeing and finishing operations in the textile sector release large volumes of coloured effluent that is toxic to aquatic life and difficult to treat biologically. Nanofiltration and loose ultrafiltration are attractive because they can retain dyes while allowing salts to pass, but flux decline caused by fouling limits their application. Several mixed-matrix designs have been reported. Zhang et al. described a PES membrane with graphene oxide that reached a rejection of 99% for Congo red at 6 bar, whereas Ali and co-workers obtained a flux of 210 LMH with a TiO2 filler but only 82% methylene blue retention. Direct comparison is difficult because feed concentration, pressure and cell geometry differ among studies. Metal-organic frameworks combine high porosity with tunable chemistry. ZIF-67",
+  "metadata_source": "crossref"
+ },
+ {
+  "paper_id": "P15",
+  "title": "SCIENTIFIC COMPARABILITY RULES",
+  "authors": "TIER IMPACT",
+  "publication_year": null,
+  "journal": "Scientific Comparability Rules — Membrane Separation Page # of #",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "Scientific Comparability Rules (1).pdf",
+  "num_pages": 2,
+  "needs_review": [
+   "publication_year",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "Scientific Comparability Rules — Membrane Separation Page # of #"
+  ],
+  "front_matter": "Scientific Comparability Rules — Membrane Separation Page 1 of 2 Scientific Comparability Rules — Membrane Separation Page 2 of 2 SCIENTIFIC COMPARABILITY RULES Standardized Protocol for Membrane Separation & Filtration Data Analysis DOC-03 SHEET 1: COMPARABILITY PARAMETERS PARAMETER TYPE CATEGORIES / THRESHOLD TIER IMPACT ACTION Different = Tier D Exclude from comparison feed_category GATE Anionic dye / Cationic dye / Non-ionic dye / Mixed effluent / Salt / Heavy metal / COD- BOD only"
+ },
+ {
+  "paper_id": "P16",
+  "title": "SCIENTIFIC COMPARABILITY RULES",
+  "authors": "TIER IMPACT",
+  "publication_year": null,
+  "journal": "Scientific Comparability Rules — Membrane Separation Page # of #",
+  "doi": null,
+  "source_url": null,
+  "source_type": "PDF upload",
+  "file": "Scientific Comparability Rules.pdf",
+  "num_pages": 2,
+  "needs_review": [
+   "publication_year",
+   "doi",
+   "authors/journal are heuristic: verify"
+  ],
+  "header_footer": [
+   "Scientific Comparability Rules — Membrane Separation Page # of #"
+  ],
+  "front_matter": "Scientific Comparability Rules — Membrane Separation Page 1 of 2 Scientific Comparability Rules — Membrane Separation Page 2 of 2 SCIENTIFIC COMPARABILITY RULES Standardized Protocol for Membrane Separation & Filtration Data Analysis DOC-03 SHEET 1: COMPARABILITY PARAMETERS PARAMETER TYPE CATEGORIES / THRESHOLD TIER IMPACT ACTION Different = Tier D Exclude from comparison feed_category GATE Anionic dye / Cationic dye / Non-ionic dye / Mixed effluent / Salt / Heavy metal / COD- BOD only"
+ }
+]

@@ -1,0 +1,6 @@
+{
+  "model": "BAAI/bge-small-en-v1.5",
+  "dimension": 384,
+  "normalized": true,
+  "query_prefix": ""
+}
