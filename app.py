@@ -1,5 +1,8 @@
-import sys
+from __future__ import annotations
+
 import os
+import sys
+
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 """Paper Research Agent - Streamlit app (light / dark, colored tables, charts).
 Pages: Ask (library / global) · Extract records · Records · Data check
