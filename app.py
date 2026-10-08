@@ -1,12 +1,11 @@
 from __future__ import annotations
-import os
-import sys
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 """Paper Research Agent - Streamlit app (light / dark, colored tables, charts).
 Pages: Ask (library / global) · Extract records · Records · Data check
 All API keys come from Streamlit secrets. Nothing secret is stored in the code.
 """
-from __future__ import annotations
+import os
+import sys
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 import re
 
